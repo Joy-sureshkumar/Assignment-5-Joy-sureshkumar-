@@ -2,7 +2,6 @@ let diameter = 0
 let area = 0
 let circumference = 0
 const PI = 22 / 7
-let result = ((diameter / 2) ** 2) * PI;
 
 document.getElementById('button').addEventListener('click', areaOfCircle)
 document.getElementById('button').addEventListener('click', circumferenceOfCircle)
