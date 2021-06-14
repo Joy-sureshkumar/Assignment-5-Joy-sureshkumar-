@@ -1,6 +1,4 @@
 let diameter = 0
-let area = 0
-let circumference = 0
 const PI = 22 / 7
 
 document.getElementById('button').addEventListener('click', areaOfCircle)
